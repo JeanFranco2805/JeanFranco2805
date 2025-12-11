@@ -27,7 +27,7 @@
 ## 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheFive40&show_icons=true&theme=tokyonight&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheFive40&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Top Langs](https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=TheFive40&layout=compact&theme=tokyonight)
 
 
 ---
