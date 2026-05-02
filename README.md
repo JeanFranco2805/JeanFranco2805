@@ -1,233 +1,237 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,80:24243e,100:0f0c29&height=280&section=header&text=Jean%20Franco&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=60&descSize=28&descColor=a78bfa&stroke=a78bfa&strokeWidth=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1117,60:161b22,100:0a0a0f&height=260&section=header&text=Jean%20Franco&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer&descAlignY=62&descSize=22&descColor=58a6ff&stroke=58a6ff&strokeWidth=0.5"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&width=700&lines=⚡+Building+enterprise+systems+from+scratch;🌐+Java+%7C+Spring+Boot+%7C+React+%7C+Python;🚀+4%2B+years+%7C+15%2B+real-world+projects;🎮+From+Minecraft+plugins+to+enterprise+apps;💡+Barranquilla%2C+Colombia+🇨🇴)](https://git.io/typing-svg)
-
-<br/>
-
-<a href="https://jeanfranco2805.github.io/Portafolio/"><img src="https://img.shields.io/badge/Portfolio-%236D28D9.svg?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/></a>
-<a href="mailto:jeanf2805@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/TheFive40"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=TheFive40&color=7c3aed&style=for-the-badge&label=VISITORS"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=58A6FF&background=00000000&center=true&vCenter=true&width=600&lines=const+dev+%3D+%7B+name%3A+'Jean+Franco'+%7D;%2F%2F+4%2B+years+building+real+things;%2F%2F+15%2B+projects+in+production;stack%3A+%5B'Java'%2C+'Spring'%2C+'React'%2C+'Python'%5D;location%3A+'Barranquilla%2C+Colombia+🇨🇴')](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
-
-<br/>
-
-## 🧑‍💻 About Me
-
-<br/>
-
 <div align="center">
-<table border="0" cellspacing="0" cellpadding="0">
+  <a href="https://jeanfranco2805.github.io/Portafolio/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=firefox-browser&logoColor=58a6ff&label=&labelColor=161b22"/></a>
+  &nbsp;
+  <a href="mailto:jeanf2805@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=flat-square&logo=gmail&logoColor=ea4335&label=&labelColor=161b22"/></a>
+  &nbsp;
+  <a href="https://github.com/TheFive40"><img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=ffffff&label=&labelColor=161b22"/></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=TheFive40&color=58a6ff&style=flat-square&label=visitors"/>
+</div>
+
+<br/>
+
+---
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  $ whoami                                                      │
+│                                                                │
+│  Jean Franco — Full Stack Developer                            │
+│  ├── 🎓  Systems Engineering @ Univ. Simón Bolívar            │
+│  ├── 💼  4+ years of experience                               │
+│  ├── 🚀  15+ projects deployed in production                  │
+│  ├── 🎮  Started with Minecraft plugins                       │
+│  └── 📍  Barranquilla, Colombia                               │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<br/>
+
+## `~/tech-stack`
+
+<br/>
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-161b22?style=flat-square&logo=html5&logoColor=e34f26)
+![CSS3](https://img.shields.io/badge/CSS3-161b22?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue-161b22?style=flat-square&logo=vuedotjs&logoColor=42b883)
+![Tailwind](https://img.shields.io/badge/Tailwind-161b22?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-161b22?style=flat-square&logo=bootstrap&logoColor=7952B3)
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-161b22?style=flat-square&logo=springboot&logoColor=6DB33F)
+![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3776AB)
+![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=009688)
+![Django](https://img.shields.io/badge/Django-161b22?style=flat-square&logo=django&logoColor=092E20)
+![Flask](https://img.shields.io/badge/Flask-161b22?style=flat-square&logo=flask&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/PHP-161b22?style=flat-square&logo=php&logoColor=777BB4)
+![Laravel](https://img.shields.io/badge/Laravel-161b22?style=flat-square&logo=laravel&logoColor=FF2D20)
+
+**Databases & DevOps**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-161b22?style=flat-square&logo=mysql&logoColor=4479A1)
+![Oracle](https://img.shields.io/badge/Oracle-161b22?style=flat-square&logo=oracle&logoColor=F80000)
+![Docker](https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=F05032)
+![Vercel](https://img.shields.io/badge/Vercel-161b22?style=flat-square&logo=vercel&logoColor=ffffff)
+
+<br/>
+
+---
+
+<br/>
+
+## `~/projects`
+
+<br/>
+
+<table border="0" cellpadding="8">
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,20&height=220&section=header&text=👨‍💻%20Jean%20Franco&fontSize=28&fontColor=ffffff&desc=Based%20in%20Barranquilla%2C%20Colombia%20🇨🇴&descSize=14&descColor=c4b5fd&fontAlignY=40&descAlignY=65" width="100%"/>
+**📚 EducaT** — LMS Platform
+```
+Full LMS for educational institutions with
+course management, forums & evaluations.
+```
+![Java](https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Spring](https://img.shields.io/badge/Spring-161b22?style=flat-square&logo=springboot&logoColor=6DB33F)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-161b22?style=flat-square&logo=thymeleaf&logoColor=005F0F)
 
 </td>
-<td width="10%"></td>
-<td width="40%" valign="top">
+<td width="50%" valign="top">
 
-<br/>
+**💼 SisPlus** — Nómina & RRHH
+```
+Attendance control and payroll calculation
+system for Colombian companies.
+```
+![Java](https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Spring Security](https://img.shields.io/badge/Spring_Security-161b22?style=flat-square&logo=springsecurity&logoColor=6DB33F)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-161b22?style=flat-square&logo=thymeleaf&logoColor=005F0F)
 
-🎓 &nbsp; **Systems Engineering** @ Univ. Simón Bolívar
+</td>
+</tr>
 
-💼 &nbsp; **Full Stack Developer** — 4+ years
+<tr><td colspan="2"><br/></td></tr>
 
-🚀 &nbsp; **15+ projects** deployed in production
+<tr>
+<td width="50%" valign="top">
 
-⚡ &nbsp; **12+ technologies** mastered
+**🍽️ Foopilot** — Restaurant Management
+```
+Complete system for orders, menu &
+inventory management.
+```
+![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3776AB)
+![Flask](https://img.shields.io/badge/Flask-161b22?style=flat-square&logo=flask&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=4169E1)
 
-🎮 &nbsp; Started with Minecraft plugins
+</td>
+<td width="50%" valign="top">
 
-🌱 &nbsp; Always learning & building
+**💆 Esthervital** — Spa & Wellness
+```
+Spa management with reservations, services
+& inventory control.
+```
+![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![MUI](https://img.shields.io/badge/Material_UI-161b22?style=flat-square&logo=mui&logoColor=0081CB)
 
-📍 &nbsp; Barranquilla, Colombia
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td width="50%" valign="top">
+
+**📻 Emisora** — Online Radio
+```
+Live streaming platform with real-time
+content management via WebSockets.
+```
+![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3776AB)
+![WebSocket](https://img.shields.io/badge/WebSocket-161b22?style=flat-square&logo=socketdotio&logoColor=ffffff)
+
+</td>
+<td width="50%" valign="top">
+
+**🏢 L&H Software** — Corporate Site
+```
+Corporate website with modern design and
+complete service management.
+```
+![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3776AB)
+![Flask](https://img.shields.io/badge/Flask-161b22?style=flat-square&logo=flask&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+<div align="center">
+  <a href="https://jeanfranco2805.github.io/Portafolio/">
+    <img src="https://img.shields.io/badge/→_ver_todos_los_proyectos-161b22?style=flat-square&logoColor=58a6ff&label=portafolio&labelColor=0d1117&color=58a6ff"/>
+  </a>
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+---
 
 <br/>
 
-## ⚡ Tech Stack
+## `~/stats`
 
 <br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,3,5&height=50&text=🎨%20Frontend&fontSize=20&fontColor=ffffff&animation=fadeIn" width="50%"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=TheFive40&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&rank_icon=github"/>
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheFive40&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6"/>
 
-<br/><br/>
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap,materialui&theme=dark&perline=9)](https://skillicons.dev)
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,8,30&height=50&text=⚙️%20Backend&fontSize=20&fontColor=ffffff&animation=fadeIn" width="50%"/>
-
-<br/><br/>
-
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi,django,flask,php,laravel&theme=dark&perline=8)](https://skillicons.dev)
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,13,20&height=50&text=🗄️%20Databases%20%26%20DevOps&fontSize=20&fontColor=ffffff&animation=fadeIn" width="50%"/>
-
-<br/><br/>
-
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,oracle,docker,git,github,vercel,gradle&theme=dark&perline=8)](https://skillicons.dev)
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
-
-<br/>
-
-## 🏆 Achievements
-
-<br/>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=TheFive40&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
-
-<br/>
-
-## 🚀 Featured Projects
-
-<br/>
-
-<div align="center">
-<table border="0" cellspacing="10" cellpadding="10">
-<tr>
-<td align="center" width="30%">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,20&height=80&text=📚%20EducaT&fontSize=22&fontColor=ffffff&desc=LMS%20Platform&descSize=13&descColor=c4b5fd" width="100%"/>
-<br/>
-Full LMS for educational institutions with course management, forums & evaluations
-<br/><br/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
-</td>
-<td align="center" width="30%">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,3,5&height=80&text=💼%20SisPlus&fontSize=22&fontColor=ffffff&desc=Nómina%20%26%20RRHH&descSize=13&descColor=93c5fd" width="100%"/>
-<br/>
-Attendance control and payroll calculation system for Colombian companies
-<br/><br/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
-</td>
-<td align="center" width="30%">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,8,30&height=80&text=🍽️%20Foopilot&fontSize=22&fontColor=ffffff&desc=Restaurantes&descSize=13&descColor=fde68a" width="100%"/>
-<br/>
-Complete restaurant management system for orders, menu & inventory
-<br/><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td align="center" width="30%">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,13,20&height=80&text=💆%20Esthervital&fontSize=20&fontColor=ffffff&desc=Spa%20%26%20Wellness&descSize=13&descColor=fbcfe8" width="100%"/>
-<br/>
-Spa management system with reservations, services & inventory control
-<br/><br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white"/>
-</td>
-<td align="center" width="30%">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=14,15,25&height=80&text=📻%20Emisora&fontSize=22&fontColor=ffffff&desc=Streaming&descSize=13&descColor=a5f3fc" width="100%"/>
-<br/>
-Online radio platform with live playback and real-time content management
-<br/><br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
-</td>
-<td align="center" width="30%">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,21,30&height=80&text=🏢%20L%26H%20Software&fontSize=20&fontColor=ffffff&desc=Corporativo&descSize=13&descColor=a7f3d0" width="100%"/>
-<br/>
-Corporate website with modern design and complete service management
-<br/><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</td>
-</tr>
-</table>
 </div>
 
 <br/>
 
 <div align="center">
-<a href="https://jeanfranco2805.github.io/Portafolio/">
-<img src="https://img.shields.io/badge/⚡ Ver todos los proyectos en el portafolio →-7C3AED?style=for-the-badge&logoColor=white"/>
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=TheFive40&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="100%"/>
+---
 
 <br/>
 
-## 🎓 Education
+## `~/education`
+
+<br/>
+
+```
+2023 → now   🏛️  Universidad Simón Bolívar     Ingeniería en Sistemas
+2023 → 2024  🎨  Jóvenes Creativos 2023        Desarrollador Front-End
+2022 → 2023  🐍  MisiónTIC · UTP               Python Programming
+2020 → 2022  ☕  Academia PíldorasInformáticas  Java Programming
+```
+
+<br/>
+
+---
 
 <br/>
 
 <div align="center">
-<table border="0">
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/2023%20→%20Now-7C3AED?style=for-the-badge"/></td>
-<td>&nbsp;&nbsp;🏛️ &nbsp;<b>Universidad Simón Bolívar</b> &nbsp;—&nbsp; Ingeniería en Sistemas</td>
-</tr>
-<tr><td colspan="2"><br/></td></tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/2023%20→%202024-3B82F6?style=for-the-badge"/></td>
-<td>&nbsp;&nbsp;🎨 &nbsp;<b>Jóvenes Creativos 2023</b> &nbsp;—&nbsp; Desarrollador Front-End</td>
-</tr>
-<tr><td colspan="2"><br/></td></tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/2022%20→%202023-06B6D4?style=for-the-badge"/></td>
-<td>&nbsp;&nbsp;🐍 &nbsp;<b>MisiónTIC · U. Tecnológica de Pereira</b> &nbsp;—&nbsp; Python Programming</td>
-</tr>
-<tr><td colspan="2"><br/></td></tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/2020%20→%202022-10B981?style=for-the-badge"/></td>
-<td>&nbsp;&nbsp;☕ &nbsp;<b>Academia PíldorasInformáticas</b> &nbsp;—&nbsp; Java Programming</td>
-</tr>
-</table>
-</div>
 
-<br/><br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=6D28D9&center=true&vCenter=true&width=500&lines=⭐+If+you+like+my+work%2C+don't+forget+to+star!;💬+Always+open+to+collaborate+%26+learn+together" alt="footer typing"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=//+always+learning%2C+always+building;//+open+to+collaborate+%26+new+challenges)](https://git.io/typing-svg)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,80:24243e,100:0f0c29&height=150&section=footer&animation=fadeIn" width="100%"/>
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1117,60:161b22,100:0a0a0f&height=120&section=footer&animation=fadeIn"/>
