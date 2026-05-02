@@ -73,11 +73,13 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheFive40&show_icons=true&theme=tokyonight&cache_seconds=1800&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheFive40&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheFive40&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheFive40&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=TheFive40&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=TheFive40&theme=tokyonight&hide_border=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TheFive40&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
