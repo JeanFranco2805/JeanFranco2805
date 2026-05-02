@@ -217,12 +217,46 @@ and complete service management.
 
 <br/>
 
-## `~/activity`
+## `~/stats`
 
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JeanFranco2805&bg_color=0d1117&color=c084fc&line=c084fc&point=ffffff&area=true&area_color=1a0040&hide_border=true"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0020,100:2d0060&height=2&section=header" width="60%"/>
+
+### 🔥 Racha de Contribuciones
+
+<img src="https://streak-stats.demolab.com?user=JeanFranco2805&theme=ads-juicy-fresh&hide_border=true&background=0D1117&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&sideLabels=8b949e&dates=8b949e&sideNums=ffffff&currStreakNum=ffffff&stroke=c084fc"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0020,100:2d0060&height=2&section=header" width="60%"/>
+
+### 💻 Lenguajes más usados
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JeanFranco2805&theme=2077&exclude="/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JeanFranco2805&theme=2077"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0020,100:2d0060&height=2&section=header" width="60%"/>
+
+### 📊 Commits · PRs · Issues · Stars
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JeanFranco2805&theme=2077"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JeanFranco2805&theme=2077&utcOffset=-5"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0020,100:2d0060&height=2&section=header" width="60%"/>
+
+### 📅 Actividad anual
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JeanFranco2805&bg_color=0d1117&color=c084fc&line=c084fc&point=ffffff&area=true&area_color=1a0040&hide_border=true&custom_title=Jean%20Franco%20—%20Contribution%20Graph"/>
+
 </div>
 
 <br/>
