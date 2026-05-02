@@ -1,121 +1,144 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jean%20Franco&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Barranquilla%2C%20Colombia&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Jean%20Franco&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=%3C%20Full%20Stack%20Developer%20%2F%3E&descAlignY=60&descSize=20&descColor=58a6ff&stroke=00d4ff&strokeWidth=1"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+scalable+backends+%F0%9F%9A%80;Crafting+modern+web+interfaces+%F0%9F%8C%90;4%2B+years+%7C+15%2B+projects+%7C+12%2B+technologies)](https://git.io/typing-svg)
+</div>
 
+```bash
+┌──(jeanf㉿universe)-[~/life]
+└─$ whoami
+
+> Full Stack Developer · Backend Architect · Systems Engineer
+> Location  : Barranquilla, Colombia 🇨🇴
+> Education : Ingeniería en Sistemas @ Universidad Simón Bolívar
+> Experience: 4+ years | 15+ projects | 12+ technologies dominated
+> Status    : Always building. Always learning. 🚀
+```
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=650&lines=const+dev+%3D+new+FullStackDeveloper(%22Jean+Franco%22)%3B;dev.build(%22scalable+backends%22%2C+%22modern+UIs%22)%3B;while(alive)+%7B+learn()%3B+build()%3B+repeat()%3B+%7D;%2F%2F+15%2B+projects+deployed+in+production+%F0%9F%9A%80;%3E+Transforming+ideas+into+real+software+since+2020)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-0d1117?style=for-the-badge&logoColor=white)](https://jeanfranco2805.github.io/Portafolio/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeanf2805@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheFive40)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=TheFive40&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+[![Portfolio](https://img.shields.io/badge/⚡_PORTFOLIO-000?style=for-the-badge&logo=firefox&logoColor=00d4ff&labelColor=0d1117)](https://jeanfranco2805.github.io/Portafolio/)
+[![Email](https://img.shields.io/badge/📬_CONTACT-000?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:jeanf2805@gmail.com)
+[![GitHub](https://img.shields.io/badge/🐙_GITHUB-000?style=for-the-badge&logo=github&logoColor=fff&labelColor=0d1117)](https://github.com/TheFive40)
+![Visitors](https://komarev.com/ghpvc/?username=TheFive40&color=00d4ff&style=for-the-badge&label=VISITORS)
 
 </div>
 
 <br/>
 
-## 🧑‍💻 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-```typescript
-const jeanFranco = {
-  role:       "Full Stack Developer",
-  location:   "Barranquilla, Colombia 🇨🇴",
-  education:  "Systems Engineering @ Universidad Simón Bolívar",
-  experience: "4+ years | 15+ projects | 12+ technologies",
-  focus:      ["Scalable Backends", "Modern Web Interfaces", "Enterprise Systems"],
-  started:    "Building Minecraft plugins → Now building enterprise apps 🎮→💼",
-  learning:   "Always adapting to new languages and frameworks 🌱",
-};
+## `~/tech-stack` 💻
+
+<div align="center">
+
+```json
+{
+  "frontend"  : ["HTML5", "CSS3", "JavaScript", "TypeScript", "React", "Vue.js",
+                 "Tailwind CSS", "Bootstrap", "Material-UI", "Thymeleaf"],
+  "backend"   : ["Java", "Spring Boot", "Spring Security", "Python",
+                 "FastAPI", "Django", "Flask", "PHP", "Laravel"],
+  "databases" : ["PostgreSQL", "MySQL", "MariaDB", "Oracle DB", "JPA/Hibernate"],
+  "devops"    : ["Docker", "Git", "GitHub", "Vercel", "Railway", "Maven", "Gradle"]
+}
+```
+
+</div>
+
+<br/>
+
+### ⚡ Skills at a glance
+
+<div align="center">
+
+**[ Frontend ]**
+
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap,materialui&theme=dark&perline=9)](https://skillicons.dev)
+
+**[ Backend ]**
+
+[![Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi,django,flask,php,laravel&theme=dark&perline=8)](https://skillicons.dev)
+
+**[ Databases & DevOps ]**
+
+[![Skills](https://skillicons.dev/icons?i=postgres,mysql,oracle,docker,git,github,vercel,gradle&theme=dark&perline=8)](https://skillicons.dev)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## `~/projects --featured` 🚀
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║                         PRODUCTION DEPLOYMENTS                                  ║
+╠══════════╦══════════════╦══════════════════════════════════════╦════════════════╣
+║ PROJECT  ║   CATEGORY   ║            DESCRIPTION               ║     STACK      ║
+╠══════════╬══════════════╬══════════════════════════════════════╬════════════════╣
+║ EducaT   ║ LMS Platform ║ Full LMS for educational institutions ║ Java · SBoot   ║
+║ SisPlus  ║ Nómina & RRHH║ Payroll & attendance system           ║ Java · SBoot   ║
+║ Foopilot ║ Restaurantes ║ Restaurant orders & inventory mgmt    ║ Python · Flask ║
+║ Esthervit║ Spa & Wellness║ Spa reservations & inventory ctrl    ║ React · Java   ║
+║ Emisora  ║ Streaming    ║ Live online radio platform            ║ JS · WebSocket ║
+║ L&H Soft ║ Corporativo  ║ Corporate site with service mgmt      ║ Python · Flask ║
+╚══════════╩══════════════╩══════════════════════════════════════╩════════════════╝
+```
+
+</div>
+
+> ⚡ **[`→ Ver todos los proyectos en el portafolio`](https://jeanfranco2805.github.io/Portafolio/)**
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## `~/achievements` 🏆
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TheFive40&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## `~/education --history` 🎓
+
+```python
+education = [
+    { "period": "2023 → Now",       "place": "Universidad Simón Bolívar",          "title": "Ingeniería en Sistemas"          },
+    { "period": "2023 → 2024",      "place": "Jóvenes Creativos 2023",             "title": "Desarrollador Front-End"         },
+    { "period": "2022 → 2023",      "place": "MisiónTIC · U. Tec. de Pereira",     "title": "Python Programming"              },
+    { "period": "2020 → 2022",      "place": "Academia PíldorasInformáticas",      "title": "Java Programming Academy"        },
+]
 ```
 
 <br/>
 
-## 🛠️ Tech Stack
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
-### 🎨 Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
+```bash
+┌──(jeanf㉿universe)-[~/life]
+└─$ echo "Thanks for visiting! Don't forget to ⭐ if you liked something."
 
-### ⚙️ Backend
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi,django,flask,php,laravel&theme=dark)](https://skillicons.dev)
+> "First, solve the problem. Then, write the code." — John Johnson
+```
 
-### 🗄️ Databases & DevOps
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,oracle,docker,git,github,vercel,maven&theme=dark)](https://skillicons.dev)
-
-</div>
-
-<br/>
-
-<details>
-<summary>📋 <b>Full Tech Stack List</b></summary>
-<br/>
-
-| Category | Technologies |
-|----------|-------------|
-| **Frontend** | HTML5, CSS3, JavaScript, TypeScript, React, Vue.js, Tailwind CSS, Bootstrap, Material-UI, Thymeleaf |
-| **Backend** | Java, Spring Boot, Spring Security, Python, FastAPI, Django, Flask, PHP, Laravel, REST API |
-| **Databases** | PostgreSQL, Oracle DB, MySQL, MariaDB, JPA/Hibernate |
-| **DevOps & Tools** | Docker, Git, GitHub, Vercel, Railway, Maven, Gradle, WebSocket |
-
-</details>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=TheFive40&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-| 🏷️ | Project | Description | Stack |
-|:---:|---------|-------------|-------|
-| 📚 | **EducaT** | Full LMS platform for educational institutions with course management, forums & evaluations | `Java` `Spring Boot` `Spring Security` `Thymeleaf` |
-| 💼 | **SisPlus** | Attendance control and payroll calculation system for Colombian companies | `Java` `Spring Boot` `Spring Security` `Thymeleaf` |
-| 🍽️ | **Foopilot** | Complete restaurant management system: orders, menu & inventory | `Python` `PostgreSQL` `JavaScript` `Flask` |
-| 💆 | **Esthervital** | Spa management system with reservations, services & inventory control | `React` `Java` `Spring Boot` `Material-UI` |
-| 📻 | **Emisora Online** | Online radio platform with live playback and content management | `JavaScript` `Python` `WebSocket` `Flask` |
-| 🏢 | **L&H Software** | Corporate website with modern design and service management | `Python` `JavaScript` `CSS` `Flask` |
-
-</div>
-
-<br/>
-
-> 🔗 Full project details at **[jeanfranco2805.github.io/Portafolio](https://jeanfranco2805.github.io/Portafolio/)**
-
-<br/>
-
-## 🎓 Education
-
-<div align="center">
-
-| Period | Institution | Achievement |
-|--------|-------------|-------------|
-| 2023 – Present | 🏛️ Universidad Simón Bolívar | Systems Engineering |
-| 2023 – 2024 | 🎨 Jóvenes Creativos | Front-End Developer |
-| 2022 – 2023 | 🐍 MisiónTIC — U. Tecnológica de Pereira | Python Programming |
-| 2020 – 2022 | ☕ Academia PíldorasInformáticas | Java Programming |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
-*⭐ If you find any of my projects interesting, feel free to star them!*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn"/>
 
 </div>
