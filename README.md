@@ -1,144 +1,270 @@
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:8B5CF6,30:6366F1,60:3B82F6,100:06B6D4&height=220&section=header&text=Jean%20Franco&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=✦%20Full%20Stack%20Developer%20✦&descAlignY=68&descSize=22&descColor=e0e7ff&stroke=ffffff&strokeWidth=2" width="100%"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Jean%20Franco&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=%3C%20Full%20Stack%20Developer%20%2F%3E&descAlignY=60&descSize=20&descColor=58a6ff&stroke=00d4ff&strokeWidth=1"/>
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=🚀+Building+scalable+backend+systems;🌐+Crafting+modern+web+interfaces;☕+Java+%7C+🐍+Python+%7C+⚛️+React+%7C+🍃+Spring;🏗️+4%2B+years+%7C+15%2B+projects+deployed;💡+Turning+ideas+into+real+software)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="https://jeanfranco2805.github.io/Portafolio/">
+  <img src="https://img.shields.io/badge/🌐%20%20Portfolio-8B5CF6?style=for-the-badge&logoColor=white"/>
+</a>
+<a href="mailto:jeanf2805@gmail.com">
+  <img src="https://img.shields.io/badge/📩%20%20Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/TheFive40">
+  <img src="https://img.shields.io/badge/🐙%20%20GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=TheFive40&color=8B5CF6&style=for-the-badge&label=👁️+VISITORS"/>
 
 </div>
 
-```bash
-┌──(jeanf㉿universe)-[~/life]
-└─$ whoami
+<br/>
 
-> Full Stack Developer · Backend Architect · Systems Engineer
-> Location  : Barranquilla, Colombia 🇨🇴
-> Education : Ingeniería en Sistemas @ Universidad Simón Bolívar
-> Experience: 4+ years | 15+ projects | 12+ technologies dominated
-> Status    : Always building. Always learning. 🚀
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp; About Me
+
+<table>
+<tr>
+<td width="55%">
+
+```yaml
+name        : Jean Franco
+role        : Full Stack Developer
+location    : Barranquilla, Colombia 🇨🇴
+university  : Universidad Simón Bolívar
+experience  : 4+ years of coding
+projects    : 15+ real-world deployments
+technologies: 12+ mastered
+
+passion     :
+  - Building enterprise-grade systems
+  - Scalable & clean backend APIs
+  - Beautiful & responsive frontends
+
+origin_story: Started with Minecraft plugins 🎮
+              Now builds enterprise apps 💼
 ```
 
-<div align="center">
+</td>
+<td width="45%" align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=650&lines=const+dev+%3D+new+FullStackDeveloper(%22Jean+Franco%22)%3B;dev.build(%22scalable+backends%22%2C+%22modern+UIs%22)%3B;while(alive)+%7B+learn()%3B+build()%3B+repeat()%3B+%7D;%2F%2F+15%2B+projects+deployed+in+production+%F0%9F%9A%80;%3E+Transforming+ideas+into+real+software+since+2020)](https://git.io/typing-svg)
+<img src="https://github-profile-trophy.vercel.app/?username=TheFive40&theme=discord&no-frame=true&no-bg=true&column=3&row=2&margin-w=5&margin-h=5"/>
 
-</div>
-
-<div align="center">
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/⚡_PORTFOLIO-000?style=for-the-badge&logo=firefox&logoColor=00d4ff&labelColor=0d1117)](https://jeanfranco2805.github.io/Portafolio/)
-[![Email](https://img.shields.io/badge/📬_CONTACT-000?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:jeanf2805@gmail.com)
-[![GitHub](https://img.shields.io/badge/🐙_GITHUB-000?style=for-the-badge&logo=github&logoColor=fff&labelColor=0d1117)](https://github.com/TheFive40)
-![Visitors](https://komarev.com/ghpvc/?username=TheFive40&color=00d4ff&style=for-the-badge&label=VISITORS)
-
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
-## `~/tech-stack` 💻
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="38"> &nbsp; Tech Stack
 
 <div align="center">
-
-```json
-{
-  "frontend"  : ["HTML5", "CSS3", "JavaScript", "TypeScript", "React", "Vue.js",
-                 "Tailwind CSS", "Bootstrap", "Material-UI", "Thymeleaf"],
-  "backend"   : ["Java", "Spring Boot", "Spring Security", "Python",
-                 "FastAPI", "Django", "Flask", "PHP", "Laravel"],
-  "databases" : ["PostgreSQL", "MySQL", "MariaDB", "Oracle DB", "JPA/Hibernate"],
-  "devops"    : ["Docker", "Git", "GitHub", "Vercel", "Railway", "Maven", "Gradle"]
-}
-```
-
-</div>
 
 <br/>
 
-### ⚡ Skills at a glance
+### ✦ &nbsp; Frontend &nbsp; ✦
 
-<div align="center">
-
-**[ Frontend ]**
-
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap,materialui&theme=dark&perline=9)](https://skillicons.dev)
-
-**[ Backend ]**
-
-[![Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi,django,flask,php,laravel&theme=dark&perline=8)](https://skillicons.dev)
-
-**[ Databases & DevOps ]**
-
-[![Skills](https://skillicons.dev/icons?i=postgres,mysql,oracle,docker,git,github,vercel,gradle&theme=dark&perline=8)](https://skillicons.dev)
-
-</div>
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#)
+[![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white)](#)
+[![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
+[![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)](#)
+[![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)](#)
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### ✦ &nbsp; Backend &nbsp; ✦
 
-## `~/projects --featured` 🚀
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║                         PRODUCTION DEPLOYMENTS                                  ║
-╠══════════╦══════════════╦══════════════════════════════════════╦════════════════╣
-║ PROJECT  ║   CATEGORY   ║            DESCRIPTION               ║     STACK      ║
-╠══════════╬══════════════╬══════════════════════════════════════╬════════════════╣
-║ EducaT   ║ LMS Platform ║ Full LMS for educational institutions ║ Java · SBoot   ║
-║ SisPlus  ║ Nómina & RRHH║ Payroll & attendance system           ║ Java · SBoot   ║
-║ Foopilot ║ Restaurantes ║ Restaurant orders & inventory mgmt    ║ Python · Flask ║
-║ Esthervit║ Spa & Wellness║ Spa reservations & inventory ctrl    ║ React · Java   ║
-║ Emisora  ║ Streaming    ║ Live online radio platform            ║ JS · WebSocket ║
-║ L&H Soft ║ Corporativo  ║ Corporate site with service mgmt      ║ Python · Flask ║
-╚══════════╩══════════════╩══════════════════════════════════════╩════════════════╝
-```
-
-</div>
-
-> ⚡ **[`→ Ver todos los proyectos en el portafolio`](https://jeanfranco2805.github.io/Portafolio/)**
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](#)
+[![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](#)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](#)
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### ✦ &nbsp; Databases &nbsp; ✦
 
-## `~/achievements` 🏆
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](#)
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](#)
+[![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)](#)
 
-<div align="center">
+<br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TheFive40&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+### ✦ &nbsp; DevOps & Tools &nbsp; ✦
+
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](#)
+[![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](#)
+[![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)](#)
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
-## `~/education --history` 🎓
-
-```python
-education = [
-    { "period": "2023 → Now",       "place": "Universidad Simón Bolívar",          "title": "Ingeniería en Sistemas"          },
-    { "period": "2023 → 2024",      "place": "Jóvenes Creativos 2023",             "title": "Desarrollador Front-End"         },
-    { "period": "2022 → 2023",      "place": "MisiónTIC · U. Tec. de Pereira",     "title": "Python Programming"              },
-    { "period": "2020 → 2022",      "place": "Academia PíldorasInformáticas",      "title": "Java Programming Academy"        },
-]
-```
+## 🚀 &nbsp; Featured Projects
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 📚 EducaT
+![](https://img.shields.io/badge/LMS_Platform-8B5CF6?style=flat-square)
+
+Full LMS for educational institutions with course management, forums & evaluations
+
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Security](https://img.shields.io/badge/-Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+### 💼 SisPlus
+![](https://img.shields.io/badge/Nómina_&_RRHH-3B82F6?style=flat-square)
+
+Attendance control and payroll calculation system for Colombian companies
+
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+### 🍽️ Foopilot
+![](https://img.shields.io/badge/Restaurantes-F59E0B?style=flat-square)
+
+Complete restaurant management system: orders, menu & inventory control
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+### 💆 Esthervital
+![](https://img.shields.io/badge/Spa_&_Wellness-EC4899?style=flat-square)
+
+Spa management system with reservations, services & inventory control
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Material](https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+### 📻 Emisora Online
+![](https://img.shields.io/badge/Streaming-06B6D4?style=flat-square)
+
+Online radio platform with live playback and real-time content management
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+### 🏢 L&H Software
+![](https://img.shields.io/badge/Corporativo-10B981?style=flat-square)
+
+Corporate website with modern design and complete service management
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
 
 <div align="center">
 
-```bash
-┌──(jeanf㉿universe)-[~/life]
-└─$ echo "Thanks for visiting! Don't forget to ⭐ if you liked something."
+[![Portfolio Button](https://img.shields.io/badge/⚡%20%20Ver%20todos%20los%20proyectos-8B5CF6?style=for-the-badge&logoColor=white)](https://jeanfranco2805.github.io/Portafolio/)
 
-> "First, solve the problem. Then, write the code." — John Johnson
-```
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn"/>
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+
+## 🎓 &nbsp; Education
+
+<br/>
+
+<div align="center">
+<table>
+<tr>
+  <td><img src="https://img.shields.io/badge/2023_→_Now-8B5CF6?style=for-the-badge"/></td>
+  <td>🏛️ <b>Universidad Simón Bolívar</b></td>
+  <td><code>Ingeniería en Sistemas</code></td>
+</tr>
+<tr>
+  <td><img src="https://img.shields.io/badge/2023_→_2024-3B82F6?style=for-the-badge"/></td>
+  <td>🎨 <b>Jóvenes Creativos 2023</b></td>
+  <td><code>Desarrollador Front-End</code></td>
+</tr>
+<tr>
+  <td><img src="https://img.shields.io/badge/2022_→_2023-06B6D4?style=for-the-badge"/></td>
+  <td>🐍 <b>MisiónTIC · U. Tec. de Pereira</b></td>
+  <td><code>Python Programming</code></td>
+</tr>
+<tr>
+  <td><img src="https://img.shields.io/badge/2020_→_2022-10B981?style=for-the-badge"/></td>
+  <td>☕ <b>Academia PíldorasInformáticas</b></td>
+  <td><code>Java Programming Academy</code></td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+
+<div align="center">
+
+<br/>
+
+### 💬 &nbsp; *"First, solve the problem. Then, write the code."*
+
+<br/>
+
+<img src="https://img.shields.io/badge/⭐%20%20If%20you%20like%20my%20work%2C%20don't%20forget%20to%20star!-F59E0B?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,30:6366F1,60:3B82F6,100:06B6D4&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
