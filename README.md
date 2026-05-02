@@ -191,16 +191,26 @@ complete service management.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-nine-orpin-36.vercel.app/api?username=TheFive40&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&rank_icon=github"/>
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats-nine-orpin-36.vercel.app/api/top-langs/?username=TheFive40&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheFive40&theme=github_dark"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=TheFive40&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheFive40&theme=github_dark"/>
+&nbsp;
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheFive40&theme=github_dark"/>
+&nbsp;
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheFive40&theme=github_dark"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=TheFive40&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=ffffff&currStreakNum=ffffff"/>
 </div>
 
 <br/>
