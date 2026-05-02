@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1117,60:161b22,100:0a0a0f&height=280&section=header&text=Jean%20Franco&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer&descAlignY=62&descSize=22&descColor=58a6ff&stroke=58a6ff&strokeWidth=0.5"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020a02,25:0a1f0a,55:0f2d0f,85:0d1a0d,100:020a02&height=280&section=header&text=Jean%20Franco&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Full%20Stack%20Developer&descAlignY=62&descSize=22&descColor=39d353&stroke=39d353&strokeWidth=0.8"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=58A6FF&background=00000000&center=true&vCenter=true&width=620&lines=const+dev+%3D+%7B+name%3A+'Jean+Franco'+%7D;%2F%2F+4%2B+years+building+real+things;%2F%2F+15%2B+projects+in+production;stack%3A+%5B'Java'%2C+'Spring'%2C+'React'%2C+'Python'%5D;location%3A+'Barranquilla%2C+Colombia+🇨🇴')](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=39D353&background=00000000&center=true&vCenter=true&width=620&lines=const+dev+%3D+%7B+name%3A+'Jean+Franco'+%7D;%2F%2F+4%2B+years+building+real+things;%2F%2F+15%2B+projects+in+production;stack%3A+%5B'Java'%2C+'Spring'%2C+'React'%2C+'Python'%5D;location%3A+'Barranquilla%2C+Colombia+🇨🇴')](https://git.io/typing-svg)
 
 </div>
 
@@ -18,7 +18,7 @@
   <a href="https://github.com/TheFive40">
     <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=ffffff"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=TheFive40&color=58a6ff&style=for-the-badge&label=VISITORS"/>
+  <img src="https://komarev.com/ghpvc/?username=TheFive40&color=39d353&style=for-the-badge&label=VISITORS"/>
 </div>
 
 <br/>
@@ -193,7 +193,7 @@ and complete service management.
 
 <div align="center">
   <a href="https://jeanfranco2805.github.io/Portafolio/">
-    <img src="https://img.shields.io/badge/→_Ver_todos_los_proyectos_en_el_portafolio-0d1117?style=for-the-badge&color=58a6ff"/>
+    <img src="https://img.shields.io/badge/→_Ver_todos_los_proyectos_en_el_portafolio-0d1117?style=for-the-badge&color=39d353"/>
   </a>
 </div>
 
@@ -208,7 +208,7 @@ and complete service management.
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JeanFranco2805&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=TheFive40&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=6"/>
 </div>
 
 <br/>
@@ -222,7 +222,7 @@ and complete service management.
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JeanFranco2805&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f2937&hide_border=true"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TheFive40&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&area_color=0f2d0f&hide_border=true"/>
 </div>
 
 <br/>
@@ -250,10 +250,10 @@ and complete service management.
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=//+always+learning%2C+always+building;//+open+to+collaborate+%26+new+challenges)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=//+always+learning%2C+always+building;//+open+to+collaborate+%26+new+challenges)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1117,60:161b22,100:0a0a0f&height=130&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020a02,25:0a1f0a,55:0f2d0f,85:0d1a0d,100:020a02&height=130&section=footer&animation=twinkling"/>
