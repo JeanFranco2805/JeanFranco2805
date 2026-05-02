@@ -87,11 +87,14 @@
 
 ## 🎯 Featured Projects
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| ⚔️ **FutureCore** | Minecraft plugin that adds custom item stats, abilities & game mechanics | Java, Gradle, Spigot API |
-| 🎟️ **BACK_TIENDA** | Full movie booking platform with authentication & seat management | Spring Boot, Thymeleaf, Spring Security |
-| 🌐 **Flask Microservices** | Lightweight REST microservices for rapid prototyping | Python, Flask, REST API |
+| Project | Category | Description | Stack |
+|--------|----------|-------------|-------|
+| 📚 **EducaT** | LMS Platform | Full LMS platform for educational institutions with course management, forums & evaluations | Java, Spring Boot, Spring Security, Thymeleaf |
+| 💼 **SisPlus** | Nómina & RRHH | Attendance control and payroll calculation system for Colombian companies | Java, Spring Boot, Spring Security, Thymeleaf |
+| 🍽️ **Foopilot** | Restaurantes | Complete information system to manage restaurants: orders, menu & inventory | Python, PostgreSQL, JavaScript, Flask |
+| 💆 **Esthervital** | Spa & Wellness | Spa management system with reservations, services & inventory control | React, Java, Spring Boot, Material-UI |
+| 📻 **Emisora Online** | Streaming | Online radio platform with live playback and content management | JavaScript, Python, WebSocket, Flask |
+| 🏢 **L&H Software** | Corporativo | Corporate website with modern design and service management | Python, JavaScript, CSS, Flask |
 
 > 👉 Check out all my projects on my [portfolio](https://jeanfranco2805.github.io/Portafolio/) or [GitHub](https://github.com/TheFive40)
 
