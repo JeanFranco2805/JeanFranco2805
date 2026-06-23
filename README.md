@@ -29,17 +29,17 @@
 
 ```console
 ┌─────────────────────────────────────────────────────────────────┐
-│                                                                   │
-│   $ whoami                                                        │
-│                                                                   │
-│   Jean Franco — Full Stack Developer                              │
-│   ├── 🎓  Systems Engineering @ Univ. Simón Bolívar              │
-│   ├── 💼  4+ years of experience                                 │
-│   ├── 🚀  15+ projects deployed in production                    │
-│   ├── 🎮  Started coding with Minecraft plugins                  │
-│   ├── 🌱  Always learning, always building                       │
-│   └── 📍  Barranquilla, Colombia 🇨🇴                             │
-│                                                                   │
+│                                                                 
+│   $ whoami                                                      
+│                                                                 
+│   Jean Franco — Full Stack Developer                            
+│   ├── 🎓  Systems Engineering @ Univ. Simón Bolívar             
+│   ├── 💼  4+ years of experience                               
+│   ├── 🚀  15+ projects deployed in production                 
+│   ├── 🎮  Started coding with Minecraft plugins               
+│   ├── 🌱  Always learning, always building                     
+│   └── 📍  Barranquilla, Colombia                                
+│                                                                 
 └─────────────────────────────────────────────────────────────────┘
 ```
 
